@@ -1,5 +1,7 @@
 
-<center>![header](https://capsule-render.vercel.app/api?type=shark&color=blue&height=250&section=header&text=Jiyong's%20GitHub&fontSize=70&animation=scaleIn)<center>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=3DDC84&height=300&section=header&text=Alissa Yoon&fontSize=70" />
+</p>
 <div align="center">
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?tab=repositories&url=https%3A%2F%2Fgithub.com%2Fkkkimjiyong&count_bg=%233652FF&title_bg=%23B2AFFF&icon=redhat.svg&icon_color=%23533EFF&title=%EC%9C%BC%EB%9E%B4%EC%B0%A8%EC%B0%A8&edge_flat=false"/></a>
