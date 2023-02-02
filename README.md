@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkkimjiyong&theme=dracula&hide=Procfile&layout=compact&langs_count=8"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkkimjiyong&theme=dracula&hide=Procfile&layout=compact&langs_count=7"/>
 
   ### Jiyong 🎨
   
