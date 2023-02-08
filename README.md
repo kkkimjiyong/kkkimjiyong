@@ -12,4 +12,7 @@
   <a href="https://www.notion.so/ffbfc05e864a47d587011873f14e0760"><img src="https://img.shields.io/badge/jjjichive-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
  
 </div>
-<a href="https://wakatime.com/@25deaafe-17e0-46af-855a-b34151a28254"><img src="https://wakatime.com/badge/user/25deaafe-17e0-46af-855a-b34151a28254.svg" alt="Total time coded since Feb 1 2023" /></a>
+  <!--START_SECTION:waka-->
+  
+  
+  <!--END_SECTION:waka-->
